@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "name": "anushka",
+    "age": "20",
+    "weight_kg": "50",
+    "height_cm": "157",
+    "goal": "fat loss",
+    "experience": "beginner",
+    "days_per_week": "5",
+    "equipment": "full gym",
+    "dietary_pref": "peferences",
+    "injuries": "none"
+  },
+  "workouts": [
+    {
+      "date": "2026-06-05",
+      "name": "push ups",
+      "notes": "15*3"
+    }
+  ],
+  "nutrition": [],
+  "history": []
+}
